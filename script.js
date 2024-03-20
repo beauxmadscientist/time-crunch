@@ -10,4 +10,3 @@ var x = setInterval(() => {
         el.innerHTML = t;
     }
 }, 1000);
-console.log(t+500);
