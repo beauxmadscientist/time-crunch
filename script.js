@@ -1,5 +1,5 @@
 const el = document.querySelector("p");
-let t = 30000;
+let t = 3000;
 el.innerHTML = t;
 var x = setInterval(() => {
     t--;
